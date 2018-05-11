@@ -1,4 +1,6 @@
 # Tilt Open
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2FCrowdtiltOpen.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2FCrowdtiltOpen?ref=badge_shield)
+
 
 Launch your own advanced crowdfunding page.
 
@@ -179,6 +181,9 @@ $ heroku addons:add papertrail:choklad
 ## Contact and License
 
 Want to get in touch? Email [questions@tilt.com](mailto:questions@tilt.com).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarloskcheung%2FCrowdtiltOpen.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarloskcheung%2FCrowdtiltOpen?ref=badge_large)
 
 #### MIT License. Copyright 2014 Tilt.com.
 Permission is hereby granted, free of charge, to any person obtaining
